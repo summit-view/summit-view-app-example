@@ -1,0 +1,26 @@
+{
+  "name": "summit-view-app-example",
+  "version": "0.0.1",
+  "description": "Example app using Summit View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summit-view/summit-view-app-example.git"
+  },
+  "keywords": [
+    "summit-view"
+  ],
+  "author": "Jens Nilsson <jens@jensnilsson.nu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summit-view/summit-view-app-example/issues"
+  },
+  "homepage": "https://github.com/summit-view/summit-view-app-example#readme",
+  "dependencies": {
+    "summit-view": "^0.1.0",
+    "summit-view-twitter": "0.0.1"
+  }
+}
