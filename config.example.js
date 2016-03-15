@@ -1,5 +1,4 @@
 module.exports = {
-    webUrl: 'http://your-public-accessible-url.com:4500/',
     port: 4500,
     twitter: {
         consumer_key: 'YOUR_CONSUMER_KEY',

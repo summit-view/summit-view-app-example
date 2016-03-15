@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/summit-view/summit-view-app-example#readme",
   "dependencies": {
-    "summit-view": "^0.1.0",
-    "summit-view-twitter": "0.0.1"
+    "summit-view": "^0.1.1",
+    "summit-view-twitter": "0.0.4"
   }
 }
